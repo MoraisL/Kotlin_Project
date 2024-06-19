@@ -24,3 +24,17 @@ Bem-vindo ao projeto de Controle de Gastos Financeiros! Este aplicativo foi dese
    ```
    git clone https://github.com/MoraisL/Kotlin_Project/
    ```
+
+
+### Abra o Projeto no Android Studio
+
+    Selecione File -> Open e navegue até o diretório do projeto clonado.
+
+### Sincronize o Projeto com o Gradle
+
+    O Android Studio deve sincronizar automaticamente o projeto com o Gradle. Caso contrário, selecione File -> Sync Project with Gradle Files.
+
+### Execute o Projeto
+
+    Conecte um dispositivo Android ou inicie um emulador.
+    Clique no ícone de "Run" no Android Studio para compilar e executar o aplicativo.
